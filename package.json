@@ -1,0 +1,27 @@
+{
+  "name": "novaperps",
+  "private": true,
+  "version": "4.2.0",
+  "type": "module",
+  "description": "NovaPerps — on-chain perpetual futures DEX",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "server": "node scripts/server.mjs",
+    "start": "node scripts/server.mjs",
+    "dev": "npm run dev -w @novaperps/console",
+    "build": "npm run build -w @novaperps/shared && npm run build -w @novaperps/console && npm run build -w @novaperps/api",
+    "contracts:install": "npm install --prefix contracts",
+    "contracts:compile": "npm run compile --prefix contracts",
+    "contracts:test": "npm test --prefix contracts",
+    "contracts:node": "npm run node --prefix contracts",
+    "contracts:deploy": "npm run deploy:local --prefix contracts"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,21 @@
+node_modules
+.turbo
+.next
+dist
+out
+cache
+artifacts
+typechain-types
+.env
+.env.local
+coverage
+broadcast
+*.tsbuildinfo
+
+# History generators / one-shots — do not publish
+**/generate-history.*
+**/_rebuild*
+**/_desync*
+**/_profile*
+**/_fastimport*
+scripts/_*
