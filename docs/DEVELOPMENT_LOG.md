@@ -6,3 +6,4 @@ Primary contributor: tngnaneno.
 - 2022-01-21T22:21:56.000Z Implement Vault USDC custody pull/push
 - 2022-01-22T06:18:22.000Z OracleRouter settable mark/index for local sims
 - 2022-01-22T06:31:13.000Z PerpMarket listing + OI cap accounting
+- 2022-01-22T06:58:34.000Z LiquidationEngine permissionless liquidate path
