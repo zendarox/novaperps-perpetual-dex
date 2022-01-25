@@ -7,3 +7,4 @@ Primary contributor: tngnaneno.
 - 2022-01-22T06:18:22.000Z OracleRouter settable mark/index for local sims
 - 2022-01-22T06:31:13.000Z PerpMarket listing + OI cap accounting
 - 2022-01-22T06:58:34.000Z LiquidationEngine permissionless liquidate path
+- 2022-01-25T22:41:36.000Z InsuranceFund cover hook for bad debt
