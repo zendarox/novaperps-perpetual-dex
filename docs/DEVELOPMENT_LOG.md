@@ -12,3 +12,4 @@ Primary contributor: tngnaneno.
 - 2022-01-30T22:29:04.000Z ClearingHouse test: open long with margin
 - 2022-01-31T01:55:52.000Z ClearingHouse test: reject under-margined open
 - 2022-01-31T03:34:04.000Z ClearingHouse test: close realizes PnL on mark move
+- 2022-02-03T05:35:58.000Z ClearingHouse test: funding crank after interval
