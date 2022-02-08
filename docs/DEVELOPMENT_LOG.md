@@ -14,3 +14,4 @@ Primary contributor: tngnaneno.
 - 2022-01-31T03:34:04.000Z ClearingHouse test: close realizes PnL on mark move
 - 2022-02-03T05:35:58.000Z ClearingHouse test: funding crank after interval
 - 2022-02-04T22:59:57.000Z ClearingHouse test: liquidate underwater account
+- 2022-02-08T05:42:22.000Z packages/shared protocol + markets constants
