@@ -18,3 +18,4 @@ Primary contributor: tngnaneno.
 - 2022-02-11T02:44:07.000Z packages/api health and /v1/markets endpoints
 - 2022-02-24T00:16:09.000Z Root workspaces packages/* npm run server
 - 2022-02-24T00:57:04.000Z Deploy script writes ABIs to packages/console/src/abi
+- 2022-02-26T00:36:08.000Z README zendarox-style package layout docs
