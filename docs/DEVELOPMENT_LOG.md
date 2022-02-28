@@ -21,3 +21,4 @@ Primary contributor: tngnaneno.
 - 2022-02-26T00:36:08.000Z README zendarox-style package layout docs
 - 2022-02-27T23:49:56.000Z [perps] ETH-PERP leverage ladder 1..50x
 - 2022-02-28T04:12:44.000Z [perps] Batch funding updates once per hour bucket
+- 2022-02-28T04:53:29.000Z Funding settle: clamp rate to maxFundingRate
