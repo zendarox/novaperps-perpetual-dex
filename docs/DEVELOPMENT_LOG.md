@@ -27,3 +27,4 @@ Primary contributor: tngnaneno.
 - 2022-03-05T01:05:41.000Z Bootstrap NovaPerps monorepo layout
 - 2022-03-06T21:06:30.000Z Add ClearingHouse skeleton with deposit/withdraw
 - 2022-03-08T21:35:00.000Z OracleRouter settable mark/index for local sims
+- 2022-03-09T04:16:32.000Z PerpMarket listing + OI cap accounting
