@@ -108,3 +108,4 @@ Primary contributor: tngnaneno.
 - 2022-06-04T05:11:54.000Z packages/console Vite React TabShell
 - 2022-06-04T05:25:26.000Z TradePanel chart book ticket wired to ClearingHouse
 - 2022-06-07T05:33:25.000Z WalletProvider viem injected MetaMask local 31337
+- 2022-06-09T02:14:24.000Z scripts/server.mjs build shared→console→api
