@@ -276,3 +276,4 @@ Primary contributor: tngnaneno.
 - 2022-12-13T02:26:13.000Z [perps] Batch funding updates once per hour bucket
 - 2022-12-14T06:22:29.000Z Funding settle: clamp rate to maxFundingRate
 - 2022-12-14T21:14:15.000Z BTC-PERP OI cap raised after insurance top-up
+- 2022-12-14T22:50:54.000Z Console global.css terminal theme tokens
