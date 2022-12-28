@@ -287,3 +287,4 @@ Primary contributor: tngnaneno.
 - 2022-12-26T03:13:57.000Z FundingRate premium → capped cumulative index
 - 2022-12-26T03:29:35.000Z LiquidationEngine permissionless liquidate path
 - 2022-12-27T23:02:36.000Z InsuranceFund cover hook for bad debt
+- 2022-12-28T22:45:16.000Z MockUSDC 6-dec mint helper for Hardhat
