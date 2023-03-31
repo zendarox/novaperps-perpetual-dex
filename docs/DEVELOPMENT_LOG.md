@@ -353,3 +353,4 @@ Primary contributor: tngnaneno.
 - 2023-03-24T00:47:39.000Z InsuranceFund cover hook for bad debt
 - 2023-03-30T22:05:37.000Z MockUSDC 6-dec mint helper for Hardhat
 - 2023-03-31T04:28:35.000Z MarginMath notional / IM / MM / uPnL helpers
+- 2023-03-31T06:51:57.000Z Hardhat config solidity 0.8.28 viaIR
