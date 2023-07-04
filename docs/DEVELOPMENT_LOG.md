@@ -408,3 +408,4 @@ Primary contributor: tngnaneno.
 - 2023-07-04T00:46:55.000Z MarketsView PortfolioView VaultsView Stats Risk Review
 - 2023-07-04T02:03:21.000Z gitignore allow scripts/server keep generators out
 - 2023-07-04T02:35:56.000Z Bootstrap NovaPerps monorepo layout
+- 2023-07-04T05:50:15.000Z Add ClearingHouse skeleton with deposit/withdraw
