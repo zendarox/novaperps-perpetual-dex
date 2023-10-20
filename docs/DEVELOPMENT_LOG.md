@@ -484,3 +484,4 @@ Primary contributor: tngnaneno.
 - 2023-10-18T02:26:14.000Z Hardhat config solidity 0.8.28 viaIR
 - 2023-10-18T06:26:09.000Z ClearingHouse test: open long with margin
 - 2023-10-19T05:04:15.000Z ClearingHouse test: reject under-margined open
+- 2023-10-20T22:23:17.000Z ClearingHouse test: close realizes PnL on mark move
