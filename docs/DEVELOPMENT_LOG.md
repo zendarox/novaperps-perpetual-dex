@@ -496,3 +496,4 @@ Primary contributor: tngnaneno.
 - 2023-10-27T06:07:14.000Z Root workspaces packages/* npm run server
 - 2023-11-06T02:28:51.000Z Deploy script writes ABIs to packages/console/src/abi
 - 2023-11-06T05:43:26.000Z README zendarox-style package layout docs
+- 2023-11-06T05:57:42.000Z [perps] ETH-PERP leverage ladder 1..50x
