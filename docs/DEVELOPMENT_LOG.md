@@ -526,3 +526,4 @@ Primary contributor: tngnaneno.
 - 2023-12-01T06:00:41.000Z WalletProvider viem injected MetaMask local 31337
 - 2023-12-01T21:34:15.000Z scripts/server.mjs build shared→console→api
 - 2023-12-01T22:43:37.000Z Root workspaces packages/* npm run server
+- 2023-12-02T03:17:41.000Z Deploy script writes ABIs to packages/console/src/abi
