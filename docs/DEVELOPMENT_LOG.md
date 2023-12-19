@@ -537,3 +537,4 @@ Primary contributor: tngnaneno.
 - 2023-12-05T23:36:44.000Z gitignore allow scripts/server keep generators out
 - 2023-12-14T22:56:18.000Z Bootstrap NovaPerps monorepo layout
 - 2023-12-19T05:43:18.000Z Add ClearingHouse skeleton with deposit/withdraw
+- 2023-12-19T21:35:49.000Z Implement Vault USDC custody pull/push
