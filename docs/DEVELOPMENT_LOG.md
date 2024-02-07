@@ -573,3 +573,4 @@ Primary contributor: tngnaneno.
 - 2024-02-06T21:04:54.000Z OracleRouter settable mark/index for local sims
 - 2024-02-07T03:36:12.000Z PerpMarket listing + OI cap accounting
 - 2024-02-07T03:50:10.000Z FundingRate premium → capped cumulative index
+- 2024-02-07T04:41:07.000Z LiquidationEngine permissionless liquidate path
