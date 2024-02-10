@@ -578,3 +578,4 @@ Primary contributor: tngnaneno.
 - 2024-02-07T22:03:43.000Z MockUSDC 6-dec mint helper for Hardhat
 - 2024-02-09T23:58:38.000Z MarginMath notional / IM / MM / uPnL helpers
 - 2024-02-10T01:10:07.000Z Hardhat config solidity 0.8.28 viaIR
+- 2024-02-10T03:51:22.000Z ClearingHouse test: open long with margin
