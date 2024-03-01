@@ -587,3 +587,4 @@ Primary contributor: tngnaneno.
 - 2024-02-22T01:59:34.000Z packages/api health and /v1/markets endpoints
 - 2024-02-22T03:31:27.000Z packages/console Vite React TabShell
 - 2024-02-27T02:24:41.000Z TradePanel chart book ticket wired to ClearingHouse
+- 2024-03-01T00:01:03.000Z WalletProvider viem injected MetaMask local 31337
