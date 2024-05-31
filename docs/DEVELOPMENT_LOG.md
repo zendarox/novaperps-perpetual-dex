@@ -630,3 +630,4 @@ Primary contributor: tngnaneno.
 - 2024-05-30T04:14:34.000Z BTC-PERP OI cap raised after insurance top-up
 - 2024-05-30T06:35:06.000Z MarketsView PortfolioView VaultsView Stats Risk Review
 - 2024-05-30T22:49:10.000Z gitignore allow scripts/server keep generators out
+- 2024-05-31T01:02:57.000Z Bootstrap NovaPerps monorepo layout
