@@ -671,3 +671,4 @@ Primary contributor: tngnaneno.
 - 2024-07-10T23:09:40.000Z LiquidationEngine permissionless liquidate path
 - 2024-07-11T02:04:32.000Z InsuranceFund cover hook for bad debt
 - 2024-07-11T05:31:39.000Z MockUSDC 6-dec mint helper for Hardhat
+- 2024-07-18T05:30:39.000Z MarginMath notional / IM / MM / uPnL helpers
