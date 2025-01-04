@@ -779,3 +779,4 @@ Primary contributor: tngnaneno.
 - 2024-12-26T00:22:42.000Z packages/console Vite React TabShell
 - 2025-01-01T02:39:53.000Z TradePanel chart book ticket wired to ClearingHouse
 - 2025-01-02T00:07:37.000Z WalletProvider viem injected MetaMask local 31337
+- 2025-01-04T23:56:43.000Z scripts/server.mjs build shared→console→api
