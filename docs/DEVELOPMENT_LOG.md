@@ -790,3 +790,4 @@ Primary contributor: tngnaneno.
 - 2025-01-10T21:23:35.000Z Console global.css terminal theme tokens
 - 2025-01-17T01:00:58.000Z MarketsView PortfolioView VaultsView Stats Risk Review
 - 2025-02-02T00:09:01.000Z gitignore allow scripts/server keep generators out
+- 2025-02-02T05:38:50.000Z Bootstrap NovaPerps monorepo layout
