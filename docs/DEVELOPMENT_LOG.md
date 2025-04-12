@@ -829,3 +829,4 @@ Primary contributor: tngnaneno.
 - 2025-04-03T05:11:00.000Z PerpMarket listing + OI cap accounting
 - 2025-04-04T01:15:27.000Z FundingRate premium → capped cumulative index
 - 2025-04-04T04:58:10.000Z LiquidationEngine permissionless liquidate path
+- 2025-04-12T02:11:15.000Z InsuranceFund cover hook for bad debt
