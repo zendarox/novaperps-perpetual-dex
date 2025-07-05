@@ -901,3 +901,4 @@ Primary contributor: tngnaneno.
 - 2025-07-02T05:13:27.000Z ClearingHouse test: reject under-margined open
 - 2025-07-02T06:33:07.000Z ClearingHouse test: close realizes PnL on mark move
 - 2025-07-02T22:32:29.000Z ClearingHouse test: funding crank after interval
+- 2025-07-05T02:46:26.000Z ClearingHouse test: liquidate underwater account
