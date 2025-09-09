@@ -934,3 +934,4 @@ Primary contributor: tngnaneno.
 - 2025-09-04T06:59:08.000Z ClearingHouse test: close realizes PnL on mark move
 - 2025-09-07T03:11:48.000Z ClearingHouse test: funding crank after interval
 - 2025-09-07T05:40:04.000Z ClearingHouse test: liquidate underwater account
+- 2025-09-09T02:15:36.000Z packages/shared protocol + markets constants
