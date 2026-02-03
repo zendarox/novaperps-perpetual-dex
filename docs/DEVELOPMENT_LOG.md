@@ -1041,3 +1041,4 @@ Primary contributor: tngnaneno.
 - 2026-01-31T04:56:24.000Z README zendarox-style package layout docs
 - 2026-02-02T01:41:49.000Z [perps] ETH-PERP leverage ladder 1..50x
 - 2026-02-03T03:09:29.000Z BTC-PERP OI cap raised after insurance top-up
+- 2026-02-03T06:37:29.000Z Console global.css terminal theme tokens
