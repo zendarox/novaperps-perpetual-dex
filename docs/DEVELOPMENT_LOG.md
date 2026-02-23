@@ -1061,3 +1061,4 @@ Primary contributor: tngnaneno.
 - 2026-02-19T22:22:56.000Z ClearingHouse test: funding crank after interval
 - 2026-02-20T22:04:54.000Z ClearingHouse test: liquidate underwater account
 - 2026-02-21T21:01:59.000Z packages/shared protocol + markets constants
+- 2026-02-23T05:13:47.000Z packages/api health and /v1/markets endpoints
