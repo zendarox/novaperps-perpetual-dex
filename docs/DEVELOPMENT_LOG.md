@@ -1075,3 +1075,4 @@ Primary contributor: tngnaneno.
 - 2026-03-15T02:42:23.000Z BTC-PERP OI cap raised after insurance top-up
 - 2026-03-15T22:01:20.000Z Console global.css terminal theme tokens
 - 2026-03-15T22:54:05.000Z MarketsView PortfolioView VaultsView Stats Risk Review
+- 2026-03-15T23:29:42.000Z gitignore allow scripts/server keep generators out
