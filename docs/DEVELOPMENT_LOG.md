@@ -1390,3 +1390,4 @@ Primary contributor: tngnaneno.
 - 2026-07-10T21:44:58.000Z Deploy script writes ABIs to packages/console/src/abi
 - 2026-07-10T21:45:04.000Z README zendarox-style package layout docs
 - 2026-07-10T21:45:09.000Z [perps] ETH-PERP leverage ladder 1..50x
+- 2026-07-10T21:45:10.000Z [perps] Batch funding updates once per hour bucket
