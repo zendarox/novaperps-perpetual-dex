@@ -1616,3 +1616,4 @@ Primary contributor: tngnaneno.
 - 2026-07-10T22:30:37.000Z [perps] ETH-PERP leverage ladder 1..50x
 - 2026-07-10T22:30:45.000Z [perps] Batch funding updates once per hour bucket
 - 2026-07-10T22:30:47.000Z Funding settle: clamp rate to maxFundingRate
+- 2026-07-10T22:31:25.000Z BTC-PERP OI cap raised after insurance top-up
