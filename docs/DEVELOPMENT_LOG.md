@@ -1670,3 +1670,4 @@ Primary contributor: tngnaneno.
 - 2026-07-10T22:40:37.000Z ClearingHouse test: liquidate underwater account
 - 2026-07-10T22:40:56.000Z TradePanel chart book ticket wired to ClearingHouse
 - 2026-07-10T22:41:19.000Z WalletProvider viem injected MetaMask local 31337
+- 2026-07-10T22:41:57.000Z scripts/server.mjs build shared→console→api
