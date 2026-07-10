@@ -1983,3 +1983,4 @@ Primary contributor: tngnaneno.
 - 2026-07-10T23:42:44.000Z ClearingHouse test: open long with margin
 - 2026-07-10T23:43:08.000Z ClearingHouse test: reject under-margined open
 - 2026-07-10T23:43:25.000Z ClearingHouse test: close realizes PnL on mark move
+- 2026-07-10T23:43:31.000Z ClearingHouse test: funding crank after interval
