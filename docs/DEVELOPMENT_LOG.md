@@ -1833,3 +1833,4 @@ Primary contributor: tngnaneno.
 - 2026-07-10T23:12:49.000Z scripts/server.mjs build shared→console→api
 - 2026-07-10T23:13:02.000Z Root workspaces packages/* npm run server
 - 2026-07-10T23:13:40.000Z Deploy script writes ABIs to packages/console/src/abi
+- 2026-07-10T23:14:31.000Z README zendarox-style package layout docs
