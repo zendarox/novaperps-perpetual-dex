@@ -1955,3 +1955,4 @@ Primary contributor: tngnaneno.
 - 2026-07-10T23:36:53.000Z ClearingHouse test: liquidate underwater account
 - 2026-07-10T23:36:59.000Z packages/shared protocol + markets constants
 - 2026-07-10T23:37:07.000Z packages/api health and /v1/markets endpoints
+- 2026-07-10T23:37:39.000Z packages/console Vite React TabShell
