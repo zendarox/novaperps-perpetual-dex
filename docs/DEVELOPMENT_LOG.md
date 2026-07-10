@@ -1245,3 +1245,4 @@ Primary contributor: tngnaneno.
 - 2026-07-10T21:16:09.000Z LiquidationEngine permissionless liquidate path
 - 2026-07-10T21:16:17.000Z InsuranceFund cover hook for bad debt
 - 2026-07-10T21:16:30.000Z MockUSDC 6-dec mint helper for Hardhat
+- 2026-07-10T21:16:33.000Z MarginMath notional / IM / MM / uPnL helpers
