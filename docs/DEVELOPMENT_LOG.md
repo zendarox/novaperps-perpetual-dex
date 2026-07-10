@@ -1668,3 +1668,4 @@ Primary contributor: tngnaneno.
 - 2026-07-10T22:39:43.000Z ClearingHouse test: close realizes PnL on mark move
 - 2026-07-10T22:39:55.000Z ClearingHouse test: funding crank after interval
 - 2026-07-10T22:40:37.000Z ClearingHouse test: liquidate underwater account
+- 2026-07-10T22:40:56.000Z TradePanel chart book ticket wired to ClearingHouse
