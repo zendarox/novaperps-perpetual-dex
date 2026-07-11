@@ -1,0 +1,12 @@
+type Account @entity {
+  id: ID!
+  collateral: BigInt!
+  positions: [Position!]! @derivedFrom(field: "account")
+}
+
+type Position @entity {
+  id: ID!
+  account: Account!
+  market: String!
+  size: BigInt!
+}
