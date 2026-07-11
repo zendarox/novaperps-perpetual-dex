@@ -3708,3 +3708,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T05:29:17.000Z Funding settle: clamp rate to maxFundingRate
 - 2026-07-11T05:29:28.000Z BTC-PERP OI cap raised after insurance top-up
 - 2026-07-11T05:29:38.000Z Console global.css terminal theme tokens
+- 2026-07-11T05:29:40.000Z MarketsView PortfolioView VaultsView Stats Risk Review
