@@ -3409,3 +3409,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T04:32:04.000Z packages/shared protocol + markets constants
 - 2026-07-11T04:32:09.000Z packages/api health and /v1/markets endpoints
 - 2026-07-11T04:32:40.000Z packages/console Vite React TabShell
+- 2026-07-11T04:32:45.000Z TradePanel chart book ticket wired to ClearingHouse
