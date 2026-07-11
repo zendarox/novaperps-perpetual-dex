@@ -2489,3 +2489,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T01:23:31.000Z README zendarox-style package layout docs
 - 2026-07-11T01:23:39.000Z [perps] ETH-PERP leverage ladder 1..50x
 - 2026-07-11T01:23:41.000Z [perps] Batch funding updates once per hour bucket
+- 2026-07-11T01:23:41.000Z Funding settle: clamp rate to maxFundingRate
