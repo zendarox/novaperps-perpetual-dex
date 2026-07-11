@@ -2723,3 +2723,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T02:10:03.000Z Implement Vault USDC custody pull/push
 - 2026-07-11T02:10:28.000Z OracleRouter settable mark/index for local sims
 - 2026-07-11T02:10:28.000Z PerpMarket listing + OI cap accounting
+- 2026-07-11T02:10:31.000Z FundingRate premium → capped cumulative index
