@@ -2308,3 +2308,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T00:47:38.000Z [perps] ETH-PERP leverage ladder 1..50x
 - 2026-07-11T00:48:22.000Z BTC-PERP OI cap raised after insurance top-up
 - 2026-07-11T00:48:28.000Z Console global.css terminal theme tokens
+- 2026-07-11T00:49:05.000Z gitignore allow scripts/server keep generators out
