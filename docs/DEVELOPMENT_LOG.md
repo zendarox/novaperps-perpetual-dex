@@ -2302,3 +2302,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T00:46:13.000Z ClearingHouse test: funding crank after interval
 - 2026-07-11T00:46:16.000Z ClearingHouse test: liquidate underwater account
 - 2026-07-11T00:46:23.000Z packages/api health and /v1/markets endpoints
+- 2026-07-11T00:47:02.000Z WalletProvider viem injected MetaMask local 31337
