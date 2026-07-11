@@ -2826,3 +2826,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T02:34:52.000Z MarginMath notional / IM / MM / uPnL helpers
 - 2026-07-11T02:35:08.000Z Hardhat config solidity 0.8.28 viaIR
 - 2026-07-11T02:35:09.000Z ClearingHouse test: open long with margin
+- 2026-07-11T02:35:29.000Z ClearingHouse test: reject under-margined open
