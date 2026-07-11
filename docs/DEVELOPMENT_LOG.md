@@ -3394,3 +3394,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T04:28:22.000Z Add ClearingHouse skeleton with deposit/withdraw
 - 2026-07-11T04:28:24.000Z Implement Vault USDC custody pull/push
 - 2026-07-11T04:28:26.000Z OracleRouter settable mark/index for local sims
+- 2026-07-11T04:28:36.000Z PerpMarket listing + OI cap accounting
