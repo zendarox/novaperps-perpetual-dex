@@ -2312,3 +2312,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T00:49:20.000Z Bootstrap NovaPerps monorepo layout
 - 2026-07-11T00:49:36.000Z Add ClearingHouse skeleton with deposit/withdraw
 - 2026-07-11T00:50:12.000Z FundingRate premium → capped cumulative index
+- 2026-07-11T00:50:37.000Z LiquidationEngine permissionless liquidate path
