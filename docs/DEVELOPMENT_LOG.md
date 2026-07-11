@@ -2314,3 +2314,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T00:50:12.000Z FundingRate premium → capped cumulative index
 - 2026-07-11T00:50:37.000Z LiquidationEngine permissionless liquidate path
 - 2026-07-11T00:51:15.000Z ClearingHouse test: open long with margin
+- 2026-07-11T00:51:19.000Z ClearingHouse test: reject under-margined open
