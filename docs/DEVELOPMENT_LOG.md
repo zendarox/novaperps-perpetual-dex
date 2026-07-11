@@ -2164,3 +2164,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T00:18:55.000Z Bootstrap NovaPerps monorepo layout
 - 2026-07-11T00:19:18.000Z Add ClearingHouse skeleton with deposit/withdraw
 - 2026-07-11T00:19:33.000Z Implement Vault USDC custody pull/push
+- 2026-07-11T00:19:34.000Z OracleRouter settable mark/index for local sims
