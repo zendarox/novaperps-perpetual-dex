@@ -2996,3 +2996,4 @@ Primary contributor: tngnaneno.
 - 2026-07-11T03:04:58.000Z TradePanel chart book ticket wired to ClearingHouse
 - 2026-07-11T03:05:03.000Z WalletProvider viem injected MetaMask local 31337
 - 2026-07-11T03:05:14.000Z scripts/server.mjs build shared→console→api
+- 2026-07-11T03:05:24.000Z Root workspaces packages/* npm run server
